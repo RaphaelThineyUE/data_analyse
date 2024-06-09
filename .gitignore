@@ -1,0 +1,6 @@
+*.wolf*
+*.venv*
+# Add commonly ignored paths below:
+/.vscode/
+*.venv*
+\_pycache_\ 

@@ -44,3 +44,5 @@ pdf_directory = f'C:\\Users\\RaphaelThiney\\OneDrive - Unison Energy\\Cyxterra B
 
 # Run the extraction function
 extract_tables_from_pdfs(pdf_directory)
+
+
