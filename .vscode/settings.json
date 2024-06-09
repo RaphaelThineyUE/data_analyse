@@ -1,5 +1,10 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "CodeGPT.Autocomplete.enabled": true,
-    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cSpell.words": [
+        "pdfplumber"
+    ],
+    "wolf.disableHotModeWarning": true,
+    "sourcery.token": "user_emhv1w87fT9LuSglKSm5KxKwgqnlJR0_GIxbhIRpSkCW6PvX4mRd_Tdboxw"
 }
